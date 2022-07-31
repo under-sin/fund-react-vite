@@ -50,14 +50,6 @@
   gap: 1rem;
 }
 
-.avatar img {
-  width: calc(3rem + 12px);
-  height: calc(3rem + 12px);
-  border-radius: 8px;
-  border: 4px solid var(--gray-800);
-  outline: 2px solid var(--green-500);
-}
-
 .authorInfo strong {
   display: block;
   line-height: 1.6;
@@ -124,5 +116,5 @@
 }
 
 .commentList {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
 }
